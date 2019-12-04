@@ -3,10 +3,10 @@
 
 游戏开发日志模板
 
-| OS / 开发工具 ｜ Version / 版本 
-|:-:|:-:|
-| OS | macOS Catalina Version 10.15.1 
-| Unity | 2019.2.14f1 Personal 
+| IDE / 开发工具 | Version / 版本 |
+|:---:|:---|
+| macOS Catalina  | 10.15.1 |
+| Unity | 2019.2.14f1 Personal |
 
 ## Games List / 游戏列表
 
@@ -26,7 +26,6 @@ echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
 git add -A
 git cz
 ```
-
 
 ## Contact / 联系方式
 
