@@ -16,7 +16,7 @@ If you like, please give me a star. Thank you!
 
 ## ScreenShots / 最新游戏截图
 
-![Guess The Number](https://github.com/GameDevLog/BomberMan/raw/master/Screenshots/BomberMan.png)
+![Guess The Number](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/GuessTheNumber.gif)
 
 ## Games List / 游戏列表
 
