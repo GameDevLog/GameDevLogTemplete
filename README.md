@@ -16,7 +16,7 @@ If you like, please give me a star. Thank you!
 
 ## ScreenShots / 最新游戏截图
 
-![Box Tower](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/3.BoxTower.gif)
+![Type Game](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/4.TypeGame.gif)
 
 ## Games List / 游戏列表
 
@@ -24,9 +24,10 @@ If you like, please give me a star. Thank you!
 
 || Game / 游戏 | Demo / 演示 |
 |:--|:--|---|
-| 1. |[Bomber Man / 炸弹人](https://github.com/GameDevLog/BomberMan)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191204)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/04/BomberMan/)<br />2019/12/04 | ![Bomber Man](ScreenShots/1.BomberMan.gif) |
-| 2. |[Guess The Number / 猜数字](https://github.com/GameDevLog/Guess-The-Number)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191205)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/05/Guess-The-Number/)<br />2019/12/05 | ![Bomber Man](ScreenShots/2.GuessTheNumber.gif) |
-| 3. |[Box Tower / 堆箱塔](https://github.com/GameDevLog/Box-Tower)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191207)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/07/Box-Tower/)<br />2019/12/06<br />-<br />2019/12/07 | ![Bomber Man](ScreenShots/3.BoxTower.gif) |
+| 1. |[Bomber Man / 炸弹人](https://github.com/GameDevLog/BomberMan)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191204)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/04/BomberMan/)<br />2019/12/04 | ![Bomber Man](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/1.BomberMan.gif) |
+| 2. |[Guess The Number / 猜数字](https://github.com/GameDevLog/Guess-The-Number)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191205)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/05/Guess-The-Number/)<br />2019/12/05 | ![Bomber Man](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/2.GuessTheNumber.gif) |
+| 3. |[Box Tower / 堆箱塔](https://github.com/GameDevLog/Box-Tower)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191207)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/07/Box-Tower/)<br />2019/12/06<br />-<br />2019/12/07 | ![Bomber Man](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/3.BoxTower.gif) |
+| 4. |[Type Game / 打字游戏](https://github.com/GameDevLog/Box-Tower)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191209)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/09/Type-Game/)<br />2019/12/09 | ![Type Game](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/ScreenShots/4.TypeGame.gif) |
 
 ## Version Control / 版本控制
 
