@@ -16,11 +16,13 @@ If you like, please give me a star. Thank you!
 
 ## ScreenShots / 最新游戏截图
 
-![Tetris](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/7.Tetris.gif)
+![ARDemo](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/8.ARDemo.gif)
 
 ## Games List / 游戏列表
 
 <https://github.com/GameDevLog/GameDevLogTemplete>
+
+点击 `游戏名` 查看 **源码**，点击 `GameDevLog` 查看 **游戏开发日志**。
 
 || Game / 游戏 | Demo / 演示 |
 |:--|:--|---|
@@ -31,6 +33,7 @@ If you like, please give me a star. Thank you!
 | 5. |[Hexagon / 六边形](https://github.com/GameDevLog/Hexagon)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191210)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/10/Hexagon/)<br />2019/12/10 | ![Hexagon](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/5.Hexagon.gif) |
 | 6. |[SunnyLand](https://github.com/GameDevLog/Sunny-Land)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191214)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/11/Sunny-Land/)<br />2019/12/11<br />-<br />2019/12/13 | ![SunnyLand](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/6.SunnyLand.gif) |
 | 7. |[Tetris](https://github.com/GameDevLog/Tetris)<br />[Unity](https://unity.com)<br />2D<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191215)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/11/Tetris/)<br />2019/12/14<br />-<br />2019/12/15 | ![Tetris](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/7.Tetris.gif) |
+| 8. |[ARDemo](https://github.com/GameDevLog/ARDemo)<br />[Unity](https://unity.com)<br />3D, AR<br />[Download(macOS/Linux/Windows)](https://github.com/GameDevLog/GameDevLogTemplete/releases/tag/v20191219)<br />[GameDevLog](https://game.iosdevlog.com/2019/12/14/ARKit/)<br />2019/12/19 | ![ARDemo](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/8.ARDemo.gif) |
 
 ## Version Control / 版本控制
 
