@@ -59,7 +59,7 @@ WeChat Official Account / 微信公众号:
 * iOSDevLog / iOS开发日志
 * AIDevLog / AI开发日志
 
-![AIDevLog](https://2019.iosdevlog.com/uploads/AIDevLog.png)
+![AIDevLog](https://raw.githubusercontent.com/GameDevLog/GameDevLogTemplete/master/ScreenShots/AIDevLog.png)
 
 ## License / 许可
 
